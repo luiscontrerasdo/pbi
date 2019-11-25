@@ -1,2 +1,2 @@
-# pbi
-Taller Microsoft Power BI
+# TALLER MICROSOFT POWER BI
+Archivos de ejemplo para el Taller.
